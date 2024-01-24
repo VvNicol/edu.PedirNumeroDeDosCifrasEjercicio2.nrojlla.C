@@ -1,0 +1,14 @@
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\bin\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.exe
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\bin\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.deps.json
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\bin\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.runtimeconfig.json
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\bin\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\bin\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.pdb
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.AssemblyInfoInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.AssemblyInfo.cs
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\refint\edu.numeroEnteroEjercicio2.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.pdb
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\edu.numeroEnteroEjercicio2.nrojlla.genruntimeconfig.cache
+D:\VisualStudioProyectos\Proyectos\edu.numeroEnteroEjercicio2.nrojlla\obj\Debug\net8.0\ref\edu.numeroEnteroEjercicio2.nrojlla.dll
